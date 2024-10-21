@@ -4,5 +4,7 @@
 
 - rama2
 
+- fetch y pull
+
 
 
