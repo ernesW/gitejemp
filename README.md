@@ -6,5 +6,7 @@
 
 - fetch y pull
 
+- diff
+
 
 
